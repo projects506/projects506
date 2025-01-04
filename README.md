@@ -17,10 +17,11 @@ This account is maintained by four Computer Science students & friends collabora
 ## 💻 Technologies We Use
 
 ```
-Languages:   Python, Java, JavaScript
-Frontend:    HTML, CSS, React
+Languages:   Python, Java, JavaScript, C++
+Frontend:    HTML, CSS, React, NextJS
+Libraries:  PyTorch, Tensorflow, flask, Streamlit
 Backend:     Node.js, Express
-Database:    MySQL, MongoDB
+Database:    MySQL, MongoDB, Postgresql
 ```
 
 ## 📫 Contact
