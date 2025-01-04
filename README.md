@@ -24,6 +24,10 @@ Backend:     Node.js, Express
 Database:    MySQL, MongoDB, Postgresql
 ```
 
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=projects506&show_icons=true&theme=dark)
+
 ## 📫 Contact
 
 Reach out to any of our team members through their personal GitHub profiles for questions about specific projects.
