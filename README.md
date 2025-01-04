@@ -8,10 +8,10 @@ This account is maintained by four Computer Science students & friends collabora
 
 ## 👥 Team Members
 
-- Student 1 (Personal GitHub: [@NishantLuhera](https://github.com/nishantkluhera))
-- Student 2 (Personal GitHub: [@RaghavArora](https://github.com/RaghavArora14))
-- Student 3 (Personal GitHub: [@VireshChauhan](https://github.com/Enity300))
-- Student 4 (Personal GitHub: [@AryyanAhlawat](https://github.com/Cloudsnore))
+- Nishant Luhera (Personal GitHub: [@nishantkluhera](https://github.com/nishantkluhera))
+- Raghav Arora (Personal GitHub: [@RaghavArora14](https://github.com/RaghavArora14))
+- Viresh Chauhan (Personal GitHub: [@Enity300](https://github.com/Enity300))
+- Aryyan Ahlawat (Personal GitHub: [@Cloudsnore](https://github.com/Cloudsnore))
 
 
 ## 💻 Technologies We Use
